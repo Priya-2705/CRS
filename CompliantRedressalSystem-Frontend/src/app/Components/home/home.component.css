@@ -1,0 +1,7 @@
+.card {
+    margin: 100px 250px 100px 250px;
+    padding: 0;
+}
+.card, .row {
+    box-sizing: border-box;
+}

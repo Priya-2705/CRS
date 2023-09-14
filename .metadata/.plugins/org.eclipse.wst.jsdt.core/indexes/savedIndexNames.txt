@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\PRIYA\OneDrive\Desktop\Phase6Projects\Complaint Redressal System\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1290745819.index
+403019472.index
+2974985251.index
+2225889077.index
+3547398079.index
+1040429483.index

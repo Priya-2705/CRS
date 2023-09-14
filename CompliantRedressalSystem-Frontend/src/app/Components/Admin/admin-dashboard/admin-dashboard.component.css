@@ -1,0 +1,10 @@
+.card-deck .card {
+    margin-bottom: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    align-items: center;
+}
+.row {
+    margin-right: 100px;
+    margin-left: 100px;
+}
